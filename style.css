@@ -1,3 +1,8 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+
 /* section1 */
 
 body {
@@ -390,8 +395,6 @@ nav a:active {
         position: relative;
         bottom: 30px;
         /* border: 2px solid yellow; */
-
-
     }
 
 

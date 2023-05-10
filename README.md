@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on New Bharathi Internet, eSeva Center, Palacode<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Job in Web Development<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on New Bharathi Internet, eSeva Center, Palacode<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Job in Web Development<br>🌱 I’m currently learning MERN Stack from GUVI<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:

@@ -9,7 +9,12 @@ I am a Trained Resource in Full Stack Development, Certified from GUVI, IITM Res
  ✉️  You can contact me at [sivaraj2siva@gmail.com](mailto:sivaraj2siva@gmail.com) <br>
 <!-- * 🧠  I'm learning Python  <br> -->
 
-🔭 I’m currently working on New Bharathi Internet, eSeva Center, Palacode<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Job in Web Development<br>🌱 I’m currently learning MERN Stack from GUVI<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on New Bharathi Internet, eSeva Center, Palacode<br>
+<!-- 👯 I’m looking to collaborate on<br> -->
+🤝 I’m looking for help with Job in Web Development<br>
+🌱 I’m currently learning MERN Stack from GUVI<br>
+<!-- 💬 Ask me about<br>
+⚡ Fun fact -->
 
 
 ## 🌐 Socials:

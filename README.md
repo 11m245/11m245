@@ -4,17 +4,17 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 # 💫 About Me:
 I am a Trained Resource in Full Stack Development, Certified from GUVI, IITM Research park, Chennai, TN. I am a enthusiastic learner and very interested to solve complex problems.Love to code and design perfect websites. Also having hands-on practice in using REST APIs.
 
- 🌍  I'm based in India <br>
+ 🌍  I'm based in India <br>
  🖥️  See my portfolio at [MyPortfolio](https://sivaraj-portfolio.netlify.app/) <br>
  ✉️  You can contact me at [sivaraj2siva@gmail.com](mailto:sivaraj2siva@gmail.com) <br>
 <!-- * 🧠  I'm learning Python  <br> -->
 
-🔭 I’m currently working on New Bharathi Internet, eSeva Center, Palacode<br>
+🔭  I’m currently working on New Bharathi Internet, eSeva Center, Palacode<br>
 <!-- 👯 I’m looking to collaborate on<br> -->
-🤝 I’m looking for help with a Job in Web Development<br>
-🌱 I’m currently learning MERN Stack from GUVI<br>
-<!-- 💬 Ask me about<br>
-⚡ Fun fact -->
+🤝  I’m looking for help with a Job in Web Development<br>
+🌱  I’m currently learning MERN Stack from GUVI<br>
+<!-- 💬  Ask me about<br>
+⚡  Fun fact -->
 
 
 ## 🌐 Socials:

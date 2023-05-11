@@ -11,7 +11,7 @@ I am a Trained Resource in Full Stack Development, Certified from GUVI, IITM Res
 
 🔭 I’m currently working on New Bharathi Internet, eSeva Center, Palacode<br>
 <!-- 👯 I’m looking to collaborate on<br> -->
-🤝 I’m looking for help with Job in Web Development<br>
+🤝 I’m looking for help with a Job in Web Development<br>
 🌱 I’m currently learning MERN Stack from GUVI<br>
 <!-- 💬 Ask me about<br>
 ⚡ Fun fact -->

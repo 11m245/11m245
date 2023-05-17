@@ -7,6 +7,7 @@ I am a Trained Resource in Full Stack Development, Certified from GUVI, IITM Res
  🌍  I'm based in India <br>
  🖥️  See my portfolio at [MyPortfolio](https://sivaraj-portfolio.netlify.app/) <br>
  ✉️  You can contact me at [sivaraj2siva@gmail.com](mailto:sivaraj2siva@gmail.com) <br>
+ 📥  Download my resume at [MyResume](https://drive.google.com/file/d/1iN_v860X_MqKPwzKQxtUdQKuinN-ywv4/view) <br>
 <!-- * 🧠  I'm learning Python  <br> -->
 
 🔭  I’m currently working on New Bharathi Internet, eSeva Center, Palacode<br>

@@ -5,8 +5,8 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 I am a Trained Resource in Full Stack Development, Certified from GUVI, IITM Research park, Chennai, TN. I am a enthusiastic learner and very interested to solve complex problems.Love to code and design perfect websites. Also having hands-on practice in using REST APIs.
 
  🌍  I'm based in India <br>
- 🖥️  See my portfolio at [MyPortfolio](https://sivaraj-portfolio.netlify.app/) <br>
- ✉️  You can contact me at [sivaraj2siva@gmail.com](mailto:sivaraj2siva@gmail.com) <br>
+ 🖥️  See my portfolio at [MyPortfolio](https://sivaraj-portfolio.netlify.app/) <br>
+ ✉️  You can contact me at [sivaraj2siva@gmail.com](mailto:sivaraj2siva@gmail.com) <br>
  📥  Download my resume at [MyResume](https://drive.google.com/file/d/1iN_v860X_MqKPwzKQxtUdQKuinN-ywv4/view) <br>
 <!-- * 🧠  I'm learning Python  <br> -->
 
